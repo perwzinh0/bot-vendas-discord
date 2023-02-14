@@ -1,0 +1,116 @@
+{
+    "vision10": {
+        "idcupom": "vision10",
+        "quantidade": "10",
+        "minimo": "10",
+        "desconto": "50"
+    },
+    "10TESTES": {
+        "idcupom": "10TESTES",
+        "quantidade": "10",
+        "minimo": "10",
+        "desconto": "10"
+    },
+    "20TESTES": {
+        "idcupom": "20TESTES",
+        "quantidade": "1",
+        "minimo": "10",
+        "desconto": "90"
+    },
+    "cupom": {
+        "idcupom": "cupom",
+        "quantidade": "10",
+        "minimo": "10",
+        "desconto": "10"
+    },
+    "vision": {
+        "idchave": "vision",
+        "logs": "1010581413021622272",
+        "cargo": "1010581354158772374",
+        "cor": "ff7300"
+    },
+    "clube771": {
+        "idcupom": "clube771",
+        "quantidade": "5",
+        "minimo": "5",
+        "desconto": "25"
+    },
+    "clube772": {
+        "idcupom": "clube772",
+        "quantidade": "5",
+        "minimo": "25",
+        "desconto": "25"
+    },
+    "clube773": {
+        "idcupom": "clube773",
+        "quantidade": "5",
+        "minimo": "5",
+        "desconto": "25"
+    },
+    "clube774": {
+        "idcupom": "clube774",
+        "quantidade": "5",
+        "minimo": "5",
+        "desconto": "25"
+    },
+    "clube775": {
+        "idcupom": "clube775",
+        "quantidade": "5",
+        "minimo": "5",
+        "desconto": "25"
+    },
+    "clube1": {
+        "idcupom": "clube1",
+        "quantidade": "199",
+        "minimo": "10",
+        "desconto": "25"
+    },
+    "clube2": {
+        "idcupom": "clube2",
+        "quantidade": "200",
+        "minimo": "25",
+        "desconto": "25"
+    },
+    "clube3": {
+        "idcupom": "clube3",
+        "quantidade": "200",
+        "minimo": "10",
+        "desconto": "25"
+    },
+    "clube4": {
+        "idcupom": "clube4",
+        "quantidade": "200",
+        "minimo": "10",
+        "desconto": "25"
+    },
+    "clube5": {
+        "idcupom": "clube5",
+        "quantidade": "200",
+        "minimo": "10",
+        "desconto": "25"
+    },
+    "brabo": {
+        "idcupom": "brabo",
+        "quantidade": "2",
+        "minimo": "5",
+        "desconto": "25"
+    },
+    "bots10": {
+        "idcupom": "bots10",
+        "quantidade": "99",
+        "minimo": "10",
+        "desconto": "10"
+    },
+    "MAKTER30": {
+        "idcupom": "MAKTER30",
+        "quantidade": "2",
+        "minimo": "10",
+        "desconto": "30"
+    },
+    "copa30": {
+        "idcupom": "copa30",
+        "quantidade": "7",
+        "minimo": "1",
+        "desconto": "30"
+    }
+}
