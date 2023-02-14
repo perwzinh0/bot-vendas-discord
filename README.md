@@ -19,4 +19,4 @@ após isso, digite
 
 node .
 
-Entre em nosso discord: https://discord.gg/F28YH4rsqJ
+Entre em nosso discord: https://discord.gg/Fsp75sNycd
